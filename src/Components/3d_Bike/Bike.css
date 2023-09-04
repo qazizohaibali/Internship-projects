@@ -1,0 +1,16 @@
+.my_bike_div{
+    cursor: url('../3d_Bike/Assets/360-degree-rotate-icon.svg'),auto;
+    /* cursor: url('./vector60-6577-01.jpg'),auto; */
+    /* cursor: url('./bike.svg'),auto; */
+    /* cursor: url('./3hMLxG01.svg'),uto; */
+    /* backdrop-filter: dropshadow(20px) */
+    /* backdrop-filter: blur(5px); */
+   /* border: 1px solid rgb(228, 223, 223); */
+}
+body{
+    background-color: rgb(197, 192, 192);
+}
+img{
+    max-height: 30rem;
+  
+}

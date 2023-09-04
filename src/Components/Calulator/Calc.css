@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Black+Ops+One&family=Signika+Negative:wght@500&display=swap');
+
+.my_icon{
+    
+    color: rgb(27, 22, 85);
+   
+}    
+
+.my_row{
+   
+    justify-content: space-evenly;
+
+}
+
+.col-lg-3,
+.col-lg-6{
+
+text-align: center;
+
+
+}
+input{
+    
+    border: 1px solid rgb(145, 141, 141);
+    border-radius: 5px;
+    width: 130px;
+
+  
+}
+
+
+ 
+  .col-sm-11{
+    color: white;
+    background-color: rgb(68, 64, 64);
+  }
+  .savings{
+    color: yellow;
+    font-weight: 800;
+    font-size: 2.5rem;
+  }
+  
+  h1{
+   
+      font-family: 'Black Ops One', cursive;
+      /* font-family: 'Rubik 80s Fade', cursive; */
+    }
+    h6{
+        font-family: 'Aclonica', sans-serif;
+        color: rgb(42, 42, 51);
+
+  }
+  .shadow,.shadow-lg{
+    border-radius: 1.5rem;
+    border: 1px solid rgb(221, 216, 216) ;
+  }
+
+p{
+    font-family: 'Signika Negative', sans-serif;
+    /* margin-top: 1rem; */
+}
+h3{
+  margin-top: 0%;
+}
